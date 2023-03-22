@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there 👋
+<p>I am a Machine Learning learner<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+I have always been fascinated by the potential of artificial intelligence to transform industries and improve people's lives.
+
+
+
 
 <!--
 **huyuaaaray/huyuaaaray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +19,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--
+*斜体**
+*强调**
+** *
+———— ————
+----
+> quote
+ >>quote 1
+  >>> * 
+  *
+  -
+  +
+   - 
+   + 
+    * 
+```
+```
+<span style="font-size: 24px;">这是24号字体</span>
+<span style="color: red;">这是红色字体</span>
+<font face="黑体">我是黑体字</font>
 -->
