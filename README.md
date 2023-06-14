@@ -1,7 +1,7 @@
 Hi there 👋
 <p>I am a Machine Learning learner<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-I have always been fascinated by the potential of artificial intelligence to transform industries and improve people's lives.
+
 
 
 
