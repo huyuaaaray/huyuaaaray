@@ -1,6 +1,6 @@
 Hi there 👋
-<p>I am a Machine Learning learner<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+![snake gif](https://github.com/catiaspsilva/catiaspsilva/blob/output/github-contribution-grid-snake.gif)
 
 
 
