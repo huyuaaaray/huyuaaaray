@@ -2,6 +2,9 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
+<img src="https://github.com/huyuaaaray/huyuaaaray/blob/main/截屏2023-09-18%20下午9.07.51.png" width="30"> 
+
+
 ![snake gif](https://github.com/catiaspsilva/catiaspsilva/blob/output/github-contribution-grid-snake.gif)
 
 
